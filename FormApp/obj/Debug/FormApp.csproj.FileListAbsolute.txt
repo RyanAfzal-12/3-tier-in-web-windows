@@ -1,0 +1,21 @@
+C:\Users\Professional Editing\source\repos\FormApp\FormApp\bin\Debug\FormApp.exe.config
+C:\Users\Professional Editing\source\repos\FormApp\FormApp\bin\Debug\FormApp.exe
+C:\Users\Professional Editing\source\repos\FormApp\FormApp\bin\Debug\FormApp.pdb
+C:\Users\Professional Editing\source\repos\FormApp\FormApp\obj\Debug\FormApp.csproj.AssemblyReference.cache
+C:\Users\Professional Editing\source\repos\FormApp\FormApp\obj\Debug\FormApp.Form1.resources
+C:\Users\Professional Editing\source\repos\FormApp\FormApp\obj\Debug\FormApp.Properties.Resources.resources
+C:\Users\Professional Editing\source\repos\FormApp\FormApp\obj\Debug\FormApp.csproj.GenerateResource.cache
+C:\Users\Professional Editing\source\repos\FormApp\FormApp\obj\Debug\FormApp.csproj.CoreCompileInputs.cache
+C:\Users\Professional Editing\source\repos\FormApp\FormApp\obj\Debug\FormApp.exe
+C:\Users\Professional Editing\source\repos\FormApp\FormApp\obj\Debug\FormApp.pdb
+C:\Users\Professional Editing\source\repos\FormApp\FormApp\bin\Debug\AppProps.dll
+C:\Users\Professional Editing\source\repos\FormApp\FormApp\bin\Debug\Business Layer.dll
+C:\Users\Professional Editing\source\repos\FormApp\FormApp\bin\Debug\DAL.dll
+C:\Users\Professional Editing\source\repos\FormApp\FormApp\bin\Debug\AppProps.pdb
+C:\Users\Professional Editing\source\repos\FormApp\FormApp\bin\Debug\Business Layer.pdb
+C:\Users\Professional Editing\source\repos\FormApp\FormApp\bin\Debug\DAL.pdb
+C:\Users\Professional Editing\source\repos\FormApp\FormApp\obj\Debug\FormApp.csproj.Up2Date
+C:\Users\Professional Editing\source\repos\FormApp\FormApp\obj\Debug\FormApp.Customer.resources
+C:\Users\Professional Editing\source\repos\FormApp\FormApp\obj\Debug\FormApp.Product.resources
+C:\Users\Professional Editing\source\repos\FormApp\FormApp\obj\Debug\FormApp.Supplier.resources
+C:\Users\Professional Editing\source\repos\FormApp\FormApp\obj\Debug\FormApp.MainForm.resources

@@ -1,0 +1,6 @@
+C:\Users\Professional Editing\source\repos\FormApp\AppProps\bin\Debug\AppProps.dll
+C:\Users\Professional Editing\source\repos\FormApp\AppProps\bin\Debug\AppProps.pdb
+C:\Users\Professional Editing\source\repos\FormApp\AppProps\obj\Debug\AppProps.csproj.AssemblyReference.cache
+C:\Users\Professional Editing\source\repos\FormApp\AppProps\obj\Debug\AppProps.csproj.CoreCompileInputs.cache
+C:\Users\Professional Editing\source\repos\FormApp\AppProps\obj\Debug\AppProps.dll
+C:\Users\Professional Editing\source\repos\FormApp\AppProps\obj\Debug\AppProps.pdb
